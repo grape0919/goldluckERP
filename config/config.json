@@ -1,0 +1,9 @@
+{
+    "database_credential":{
+        "host":"sft-web-dev.koreacentral.cloudapp.azure.com",
+        "port":"3306",
+        "user":"kpmg_sft",
+        "password":"KPMGk5reaSFT!!",
+        "database":"sft_db_dev"
+    }
+}
